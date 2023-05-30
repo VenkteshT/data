@@ -6,6 +6,13 @@
       "price": "4999",
       "description": "a prifessional gaming chair best comfortablelity",
       "rating": "4"
+    },
+    {
+      "id": "2",
+      "title": "gaming mouse",
+      "price": "2999",
+      "description": "a prifessional gaming mouse best performence",
+      "rating": "4"
     }
   ]
 }
