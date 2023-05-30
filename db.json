@@ -1,10 +1,11 @@
 {
-  "profile": {
-    "name": "venky"
-  },
-  "data": [
+  "products": [
     {
-      "title": "chair"
+      "id": "1",
+      "title": "gaming chiar",
+      "price": "4999",
+      "description": "a prifessional gaming chair best comfortablelity",
+      "rating": "4"
     }
   ]
 }
